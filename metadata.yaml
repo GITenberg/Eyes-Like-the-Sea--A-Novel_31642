@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5845
     wikipedia: http://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
 description: 'Translation of: "A tengerszemű hölgy"'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31642#Eyes-Like-the-Sea--A-Novel
 gutenberg_issued: '2010-03-14'
 gutenberg_type: Text
 identifiers:
